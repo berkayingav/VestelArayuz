@@ -1,4 +1,4 @@
-Using the refrigerator flow chart provided in this project, a selection and text-based interface application was developed for technical service.
+Using the refrigerator 'Flow_Chart_Buzdolabi.pdf' provided in this project, a selection and text-based interface application was developed for technical service.
 
 ![image](https://github.com/berkayingav/VestelArayuz/assets/139239393/698f90ea-5592-4a1b-a503-e94e8bfe6815)
 
